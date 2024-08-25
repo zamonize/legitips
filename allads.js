@@ -11,8 +11,8 @@
         location.href="https://bit.ly/4ayYZ9t";
     }
 function goon(){
-        location.href="https://bit.ly/3zuaxOr";
+        location.href="https://bit.ly/3VMnbBc";
     }
 function goon(){
-        location.href="https://bit.ly/3zuaxOr";
+        location.href="https://bit.ly/3VMnbBc";
     }
